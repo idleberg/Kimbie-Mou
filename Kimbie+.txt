@@ -73,7 +73,7 @@ VERBATIM
 foreground: 889b4a
 
 HTML_ENTITY
-foreground: 18401e
+foreground: 088649
 
 COMMENT
 foreground: a57a4c
